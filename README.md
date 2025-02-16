@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mern Stack And Projects Dealing with front end<br><br>🌱 I’m currently learning Data Structure and DBMS<br><br>💬 Ask me about C++, data structure,React<br><br>📫 How to reach me upretianshul9898@gmail.com<br><br> My portfolio - https://portfolioanshul.netlify.app/.<br><br>
+🔭 I’m currently working on React and Python  Projects <br><br>🌱 I’m currently learning Data Structure and DBMS<br><br>💬 Ask me about C++, data structure,React<br><br>📫 How to reach me upretianshul9898@gmail.com<br><br> My portfolio - https://portfolioanshul.netlify.app/.<br><br>
 # Specialization in React frontend technologies and development
 # Do check out my new admin dashboard project developed by mern stack 
  
