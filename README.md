@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React and Python Projects<br><br>🌱 I’m currently learning Data Structures and DBMS<br><br>💬 Ask me about C++, Data Structures, React<br><br>📫 How to reach me: upretianshul9898@gmail.com<br><br>🚀 Check out my portfolio: [Portfolio Website](https://portfolioanshul.netlify.app/)<br><br>🎯 Specialization: React frontend technologies and development<br><br>🔥 Do check out my new admin dashboard project developed using the MERN stack!
+🔭 I’m currently working on JAVA SpringBoot  Projects<br><br>💬 Ask me about JAVA, Data Structures, React<br><br>📫 How to reach me: upretianshul9898@gmail.com<br><br>🚀 Check out my portfolio: [Portfolio Website](https://portfolioanshul.netlify.app/)<br><br>🎯 Specialization: React frontend technologies and developmen , JAVA Spring Boott<br><br>🔥 Do check out my new admin dashboard project developed using the MERN stack!
 
 ---
 
